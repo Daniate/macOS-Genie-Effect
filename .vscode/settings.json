@@ -1,0 +1,7 @@
+{
+    "glsl-canvas.textures": {
+        "0": "./assets/cat_512.png",
+        "1": "./assets/curve_graph.jpg",
+        "2": "./assets/glsl-canvas.png",
+    }
+}
